@@ -25,6 +25,11 @@ However, in order for the browsebox to highlight hot rows, you must manually set
 - ABC and Clarion template chains
 
 
+### Dependencies
+- [winapi](https://github.com/mikeduglas/winapi)
+- [printf](https://github.com/mikeduglas/printf)
+
+
 ### Price
 $120 via ClarionShop
 
