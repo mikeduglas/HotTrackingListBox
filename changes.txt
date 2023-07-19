@@ -1,0 +1,17 @@
+v1.04
+- OnHotRowChanged event added.
+- Template: You can use a derived class.
+
+v1.03
+- The hot row is stay styled when scrolling the list or pressing any key (2nd change of v1.02 canceled).
+- Template: unconditionally enabled hot custom mode settings.
+
+v1.02
+- Hover selection haven't raised Event:NewSelection.
+- Now the hot row is reset when scrolling the list or pressing any key.
+
+v1.01
+- Template support for custom hot mode.
+
+v1.0
+- Initial release
