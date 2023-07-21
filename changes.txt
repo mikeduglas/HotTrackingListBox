@@ -1,3 +1,6 @@
+v1.05
+- SmartZoom template support.
+
 v1.04
 - OnHotRowChanged event added.
 - Template: You can use a derived class.
