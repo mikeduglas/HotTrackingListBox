@@ -30,9 +30,7 @@ However, in order for the browsebox to highlight hot rows, you must manually set
 - [printf](https://github.com/mikeduglas/printf)
 
 
-### Price
-$120 via ClarionShop
-
-
 ### Contacts
 mikeduglas@yandex.ru
+
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1691&q=1)
