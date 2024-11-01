@@ -1,6 +1,7 @@
 # Hot tracking listbox
 
-Hot tracking is a feature that provides feedback to the user when the mouse pointer passes over the LIST control. With the Hot tracking property set to on, the LIST control responds to mouse movement by highlighting the row over which the mouse pointer is positioned. For a better understanding, [watch the short video](https://clipchamp.com/watch/oScjswue4LD).
+Hot tracking is a feature that provides feedback to the user when the mouse pointer passes over the LIST control. With the Hot tracking property set to on, the LIST control responds to mouse movement by highlighting the row over which the mouse pointer is positioned. For a better understanding, [watch the short video](https://github.com/user-attachments/assets/c52d2820-fb3d-41c9-9416-8d26b8c6a1a5).
+
   
 ### Hot tracking listbox class
 Adds the following functionality to LIST controls (those with FROM(Queue)):
